@@ -1,0 +1,13 @@
+name = "Altis Forces Rearmed";
+picture = "logo_ALFR_ca.paa";
+actionName = "";
+action = "";
+logo = "logo_ALFR_small_ca.paa";
+logoOver = "logo_ALFR_small_ca.paa";
+tooltip = "Altis Forces Rearmed";
+tooltipOwned = "Altis Forces Rearmed";
+overview = "ALFR aims to modify the Altis Armed Forces faction with more contemporary equipment.";
+author = "ALFR Team";
+overviewPicture = "logo_ALFR_ca.paa";
+overviewText = "Altis Forces Rearmed";
+overviewFootnote = "";
